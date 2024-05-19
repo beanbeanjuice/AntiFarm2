@@ -1,0 +1,8 @@
+name: AntiFarm2
+version: ${version}
+author: oTuin, beanbeanjuice
+main: com.beanbeanjuice.antifarm2.AntiFarm2
+api-version: 1.20
+description: Multipurpose AFK farm blocker.
+commands:
+  antifarm:
